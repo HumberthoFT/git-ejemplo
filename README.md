@@ -1,2 +1,2 @@
 # git-ejemplo
-codigo IoT
+codigo IoT.
